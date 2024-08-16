@@ -1,0 +1,4 @@
+__pycache__/
+SpotGenTrack.zip
+datasets/Data/spotify_tracks.csv
+datasets/Data/spotify_albums.csv
